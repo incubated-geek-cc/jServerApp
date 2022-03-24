@@ -4,7 +4,7 @@
 
 ## General Details:
 ### `src` code directory structure
-<br/>![src code](https://miro.medium.com/max/1050/1*ObK20JirzI65hK25C6sdAA.png)
+<br/>![src code](https://miro.medium.com/max/1050/1*AiA-VO2vZPMH2oF84zJtbA.png)
 ---
 ## To run the Web Server:
 ### Place all static assets into the 📁www folder
