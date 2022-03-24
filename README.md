@@ -4,9 +4,9 @@
 
 ### General Details:
 ## `src` code directory structure
-<br/>[!src code](https://miro.medium.com/max/1050/1*ObK20JirzI65hK25C6sdAA.png)
+<br/>![src code](https://miro.medium.com/max/1050/1*ObK20JirzI65hK25C6sdAA.png)
 ---
-### To run the web server:
+### To run the Web Server:
 ## Place all static assets into the 📁www folder
 <br/>![www folder](https://miro.medium.com/max/900/1*OYJ_iPMXpaX6QBJlDsJniQ.gif)
 ## To specifiy a custom port number, change the argument in the run.sh file
